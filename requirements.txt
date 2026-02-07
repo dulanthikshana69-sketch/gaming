@@ -10,5 +10,3 @@ protobuf-decoder
 pytz
 aiohttp
 cfonts
-SS
-Crypto
